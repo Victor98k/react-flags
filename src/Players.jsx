@@ -37,7 +37,7 @@ function Players() {
       <div className="container">
         <div className="player-container">
           <div className="how-to-header">
-            <h3>Challange your friends with the FlagGame!<</h3>
+            <h3>Challange your friends with the FlagGame!</h3>
           </div>
 
           <button className="rules-btn" onClick={toggleInstructions}>
